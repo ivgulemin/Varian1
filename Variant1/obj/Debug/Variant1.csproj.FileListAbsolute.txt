@@ -1,0 +1,10 @@
+C:\Users\Alexey.Mitkin.FOREXTIME-CY\source\repos\Variant1\Variant1\bin\Debug\Variant1.exe.config
+C:\Users\Alexey.Mitkin.FOREXTIME-CY\source\repos\Variant1\Variant1\bin\Debug\Variant1.exe
+C:\Users\Alexey.Mitkin.FOREXTIME-CY\source\repos\Variant1\Variant1\bin\Debug\Variant1.pdb
+C:\Users\Alexey.Mitkin.FOREXTIME-CY\source\repos\Variant1\Variant1\obj\Debug\Variant1.csprojAssemblyReference.cache
+C:\Users\Alexey.Mitkin.FOREXTIME-CY\source\repos\Variant1\Variant1\obj\Debug\Variant1.Form1.resources
+C:\Users\Alexey.Mitkin.FOREXTIME-CY\source\repos\Variant1\Variant1\obj\Debug\Variant1.Properties.Resources.resources
+C:\Users\Alexey.Mitkin.FOREXTIME-CY\source\repos\Variant1\Variant1\obj\Debug\Variant1.csproj.GenerateResource.cache
+C:\Users\Alexey.Mitkin.FOREXTIME-CY\source\repos\Variant1\Variant1\obj\Debug\Variant1.csproj.CoreCompileInputs.cache
+C:\Users\Alexey.Mitkin.FOREXTIME-CY\source\repos\Variant1\Variant1\obj\Debug\Variant1.exe
+C:\Users\Alexey.Mitkin.FOREXTIME-CY\source\repos\Variant1\Variant1\obj\Debug\Variant1.pdb
